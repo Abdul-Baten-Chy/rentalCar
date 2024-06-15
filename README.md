@@ -31,4 +31,6 @@ This repository contains the backend implementation for a Car Rental Reservation
 ## Technology Stack
 
 - **TypeScript**: Language used for development.
-- **Express.js**: Web fr
+- **Express.js**: Web framework for building APIs.
+- **MongoDB**: Database for storing application data.
+- **Mongoose**: ODM library for MongoDB and data validation.
